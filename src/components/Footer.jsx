@@ -57,7 +57,7 @@ const Footer = () => {
                   thousands.
                 </p>
                 {/* Newsletter Signup */}
-                <div className="flex gap-2">
+                <div className="flex gap-2 flex-col sm:flex-row">
                   <input
                     type="email"
                     placeholder="Enter your email"
