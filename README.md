@@ -54,7 +54,7 @@ A secure, fast, and user-friendly cross-chain bridge for transferring assets bet
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/web3-chain.git
+   https://github.com/Genius-mu/CrossChain.git
    cd web3-chain
    ```
 
@@ -162,7 +162,7 @@ This application implements industry-leading security measures:
 
 ### Reporting Security Issues
 
-If you discover a security vulnerability, please report it to `security@web3chain.com` instead of creating a public issue.
+If you discover a security vulnerability, please report it to `adegbitemustapha73@gmail.com` instead of creating a public issue.
 
 ## 📄 License
 
@@ -170,10 +170,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [docs.web3chain.com](https://docs.web3chain.com)
-- **Discord Community**: [discord.gg/web3chain](https://discord.gg/web3chain)
-- **Twitter**: [@web3chain](https://twitter.com/web3chain)
-- **Email**: support@web3chain.com
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mustaphaadegbite/)
+- **X**: [@web3chain](https://x.com/mustaphAdegbite)
+- **Email**: adegbitemustapha73@gmail.com
 
 ## 🙏 Acknowledgments
 
