@@ -389,10 +389,10 @@ const Home = () => {
 
             <div className="relative z-10">
               <Layers className="w-16 h-16 mx-auto mb-6 text-blue-400" />
-              <h2 className="text-4xl md:text-5xl font-bold mb-6">
+              <h2 className="text-2xl md:text-5xl font-bold mb-6">
                 Ready to Bridge Your Assets?
               </h2>
-              <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
+              <p className="text-[15px] text-gray-300 mb-8 max-w-2xl mx-auto">
                 Join thousands of users who trust our platform for secure, fast,
                 and seamless cross-chain transfers
               </p>
@@ -402,7 +402,7 @@ const Home = () => {
                   boxShadow: "0 0 40px rgba(59, 130, 246, 0.6)",
                 }}
                 whileTap={{ scale: 0.95 }}
-                className="px-5 py-3 sm:px-10 sm:py-5 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full font-bold text-[15px] sm:text-lg flex items-center gap-3 mx-auto shadow-2xl shadow-blue-500/50"
+                className="px-5 py-3 sm:px-10 sm:py-5 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full font-bold text-[13px] sm:text-lg flex items-center gap-3 mx-auto shadow-2xl shadow-blue-500/50"
               >
                 Launch Application
                 <ArrowRight className="w-6 h-6" />
