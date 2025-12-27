@@ -162,7 +162,7 @@ const Bridge = () => {
                       whileHover={{ scale: 1.02 }}
                       whileTap={{ scale: 0.98 }}
                       onClick={() => setIsFromChainOpen(!isFromChainOpen)}
-                      className="flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 transition-colors"
+                      className="flex items-center gap-2 px-2 sm:px-4 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 transition-colors"
                     >
                       <div
                         className={`w-8 h-8 rounded-lg bg-gradient-to-br ${fromChainData.color} flex items-center justify-center text-xl`}
@@ -225,7 +225,7 @@ const Bridge = () => {
                       className="flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 transition-colors"
                     >
                       <span className="text-xl">{tokenData.icon}</span>
-                      <span className="font-semibold">{selectedToken}</span>
+                      <span className="font-semibold text-[12px] sm:text-[17px]">{selectedToken}</span>
                       <ChevronDown className="w-4 h-4" />
                     </motion.button>
 
