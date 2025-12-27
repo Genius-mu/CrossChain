@@ -402,7 +402,7 @@ const Home = () => {
                   boxShadow: "0 0 40px rgba(59, 130, 246, 0.6)",
                 }}
                 whileTap={{ scale: 0.95 }}
-                className="px-7 py-3 sm:px-10 sm:py-5 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full font-bold text-[18px] sm:text-lg flex items-center gap-3 mx-auto shadow-2xl shadow-blue-500/50"
+                className="px-5 py-3 sm:px-10 sm:py-5 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full font-bold text-[15px] sm:text-lg flex items-center gap-3 mx-auto shadow-2xl shadow-blue-500/50"
               >
                 Launch Application
                 <ArrowRight className="w-6 h-6" />
