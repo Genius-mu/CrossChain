@@ -68,42 +68,66 @@ const About = () => {
       role: "CEO & Co-Founder",
       bio: "Former blockchain architect at Ethereum Foundation. 10+ years in distributed systems.",
       image: "👨‍💼",
-      socials: { twitter: "#", linkedin: "#", github: "#" },
+      socials: {
+        twitter: "https://x.com/mustaphAdegbite",
+        linkedin: "https://www.linkedin.com/in/mustaphaadegbite/",
+        github: "https://github.com/Genius-mu",
+      },
     },
     {
       name: "Sarah Mitchell",
       role: "CTO & Co-Founder",
       bio: "Ex-Google engineer with expertise in cryptography and smart contract security.",
       image: "👩‍💻",
-      socials: { twitter: "#", linkedin: "#", github: "#" },
+      socials: {
+        twitter: "https://x.com/mustaphAdegbite",
+        linkedin: "https://www.linkedin.com/in/mustaphaadegbite/",
+        github: "https://github.com/Genius-mu",
+      },
     },
     {
       name: "Michael Rodriguez",
       role: "Head of Engineering",
       bio: "Built scalable systems at Coinbase. Passionate about DeFi and Web3 infrastructure.",
       image: "👨‍🔧",
-      socials: { twitter: "#", linkedin: "#", github: "#" },
+      socials: {
+        twitter: "https://x.com/mustaphAdegbite",
+        linkedin: "https://www.linkedin.com/in/mustaphaadegbite/",
+        github: "https://github.com/Genius-mu",
+      },
     },
     {
       name: "Emily Zhang",
       role: "Lead Smart Contract Developer",
       bio: "Security researcher with multiple audits. Solidity expert and open-source contributor.",
       image: "👩‍🚀",
-      socials: { twitter: "#", linkedin: "#", github: "#" },
+      socials: {
+        twitter: "https://x.com/mustaphAdegbite",
+        linkedin: "https://www.linkedin.com/in/mustaphaadegbite/",
+        github: "https://github.com/Genius-mu",
+      },
     },
     {
       name: "David Park",
       role: "Head of Product",
       bio: "Product leader from Uniswap. Focused on building intuitive DeFi experiences.",
       image: "👨‍🎨",
-      socials: { twitter: "#", linkedin: "#", github: "#" },
+      socials: {
+        twitter: "https://x.com/mustaphAdegbite",
+        linkedin: "https://www.linkedin.com/in/mustaphaadegbite/",
+        github: "https://github.com/Genius-mu",
+      },
     },
     {
       name: "Lisa Thompson",
       role: "Head of Operations",
       bio: "Operations expert with experience scaling Web3 startups. Former Amazon PM.",
       image: "👩‍💼",
-      socials: { twitter: "#", linkedin: "#", github: "#" },
+      socials: {
+        twitter: "https://x.com/mustaphAdegbite",
+        linkedin: "https://www.linkedin.com/in/mustaphaadegbite/",
+        github: "https://github.com/Genius-mu",
+      },
     },
   ];
 

@@ -169,7 +169,7 @@ const Bridge = () => {
                       >
                         {fromChainData.icon}
                       </div>
-                      <span className="font-semibold">
+                      <span className="font-semibold text-[13px] sm:text-[18px]">
                         {fromChainData.name}
                       </span>
                       <ChevronDown className="w-4 h-4" />
